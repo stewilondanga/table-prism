@@ -6,9 +6,9 @@ var navigate = (function() {
     $('.' + dataName).toggle();
   });
 })();
-/*
+
 let transform = 0;
-let table = document.querySelector('table');
+/*let table = document.querySelector('table');
 let slides = table.querySelectorAll('tr').length;
 let singleRotation = 360 / slides;
 
