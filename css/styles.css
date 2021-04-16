@@ -133,8 +133,7 @@ tbody {
   transform-style: preserve-3d;
 }
 
-/*
-tbody > tr {
+tbody>tr {
   margin: -4em;
   width: 8em;
   display: flex;
@@ -143,6 +142,7 @@ tbody > tr {
   -webkit-box-reflect: below 0 -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(50%, transparent), to(RGBA(0, 0, 0, 0.05)));
 }
 
+/*
 tbody > tr > th {
   width: 100%;
   background-color: white;
