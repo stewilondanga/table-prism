@@ -219,14 +219,14 @@ tbody>tr:nth-child(6)>th {
   background-color: rgba(39, 25, 20, 0.97);
 }
 
-/*
-tbody > tr > th {
+tbody>tr>th {
   color: white;
   font-size: 20px;
   font-weight: 700;
   margin-bottom: 0.5em;
 }
 
+/*
 tbody > tr > td {
   width: 100%;
   color: white;
