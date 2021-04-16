@@ -175,10 +175,11 @@ tbody>tr:nth-child(3) {
   transform: rotateY(180deg) translateZ(6.9282em);
 }
 
-/*tbody > tr:nth-child(3) > td {
+tbody>tr:nth-child(3)>td {
   background-color: rgba(80, 40, 70, 0.97);
 }
-tbody > tr:nth-child(3) > th {
+
+/*tbody > tr:nth-child(3) > th {
   background-color: rgba(39, 20, 34, 0.97);
 }
 
