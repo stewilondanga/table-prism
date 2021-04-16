@@ -226,14 +226,14 @@ tbody>tr>th {
   margin-bottom: 0.5em;
 }
 
-/*
-tbody > tr > td {
+tbody>tr>td {
   width: 100%;
   color: white;
   font-size: 20px;
   text-align: center;
 }
-tbody > tr > td:not(:last-child) {
+
+/*tbody > tr > td:not(:last-child) {
   border-bottom: 1px solid rgba(255, 255, 255, 0.05);
 }
 
