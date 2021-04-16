@@ -129,11 +129,11 @@ table {
   transition: transform 500ms ease-in-out;
 }
 
-/*
 tbody {
   transform-style: preserve-3d;
 }
 
+/*
 tbody > tr {
   margin: -4em;
   width: 8em;
