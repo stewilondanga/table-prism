@@ -142,12 +142,12 @@ tbody>tr {
   -webkit-box-reflect: below 0 -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(50%, transparent), to(RGBA(0, 0, 0, 0.05)));
 }
 
-/*
-tbody > tr > th {
+tbody>tr>th {
   width: 100%;
   background-color: white;
 }
 
+/*
 tbody > tr:nth-child(1) {
   transform: rotateY(60deg) translateZ(6.9282em);
 }
