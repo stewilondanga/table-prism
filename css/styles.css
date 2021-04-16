@@ -147,11 +147,11 @@ tbody>tr>th {
   background-color: white;
 }
 
-/*
-tbody > tr:nth-child(1) {
+tbody>tr:nth-child(1) {
   transform: rotateY(60deg) translateZ(6.9282em);
 }
-tbody > tr:nth-child(1) > td {
+
+/*tbody > tr:nth-child(1) > td {
   background-color: rgba(63, 40, 80, 0.97);
 }
 tbody > tr:nth-child(1) > th {
