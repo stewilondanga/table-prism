@@ -1,4 +1,9 @@
 @import url("https://fonts.googleapis.com/css?family=Lato:100");
+
+:root {
+  --rotate: 0deg;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -108,9 +113,6 @@
   transition-delay: 0.4s;
 }
 
-:root {
-  --rotate: 0deg;
-}
 
 table, tbody, tr {
   position: absolute;
