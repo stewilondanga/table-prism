@@ -9,8 +9,8 @@ var navigate = (function() {
 
 let transform = 0;
 let table = document.querySelector('table');
-/*let slides = table.querySelectorAll('tr').length;
-let singleRotation = 360 / slides;
+let slides = table.querySelectorAll('tr').length;
+/*let singleRotation = 360 / slides;
 
 setInterval(() => {
   table.style.setProperty('--rotate', `${-transform}deg`);
