@@ -114,11 +114,11 @@ body {
   transition-delay: 0.4s;
 }
 
-/*
 table, tbody, tr {
   position: absolute;
 }
 
+/*
 table {
   top: 50%;
   left: 50%;
