@@ -233,11 +233,11 @@ tbody>tr>td {
   text-align: center;
 }
 
-/*tbody > tr > td:not(:last-child) {
+tbody>tr>td:not(:last-child) {
   border-bottom: 1px solid rgba(255, 255, 255, 0.05);
 }
 
-
+/*
 #contact h1 {
   font-family: helvetica;
   font-weight: normal;
