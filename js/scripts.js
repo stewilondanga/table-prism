@@ -1,4 +1,4 @@
-/*var navigate = (function() {
+var navigate = (function() {
   $('.dd').toggle();
   $('.dd_btn').click(function() {
     var dataName = $(this).attr('data-name');
@@ -6,7 +6,7 @@
     $('.' + dataName).toggle();
   });
 })();
-
+/*
 let transform = 0;
 let table = document.querySelector('table');
 let slides = table.querySelectorAll('tr').length;
